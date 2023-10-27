@@ -1,9 +1,9 @@
 ﻿Copyright (C) 2013 Rodrigo E. Liberoff V. (@rliberoff) (rliberoff@gmail.com)
 
-I do not pretend that this "AOP Framework" is the fastest, the leanest, the 
-smallest or the best, I just pretend that it does exactly what I planned it to do, 
-and that it does it well enough for me. I hope it does the same for you, and if it 
-happens that you were able to improve it… just let me know.
+I do not pretend that this "AOP Logging" and its inherent "AOP Framework" are the 
+fastest, the leanest, the smallest or the best, I just pretend that it does exactly 
+what I planned it to do, and that it does it well enough for me. I hope it does the 
+same for you, and if it happens that you were able to improve it… just let me know.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of 
 this software and associated documentation files (the "Software"), to deal in the 
@@ -21,4 +21,6 @@ PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR(S) OR COPYR
 HOLDER(S) BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
 CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE 
 OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Please read the LICENSE.txt file.
 
