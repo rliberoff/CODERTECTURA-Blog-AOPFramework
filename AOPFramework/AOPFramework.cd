@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="AOPFramework.InterceptableAttribute">
+    <Position X="5.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>InterceptableAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AOPFramework.InterceptableObject">
+    <Position X="0.5" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterceptableObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AOPFramework.InterceptContextAttribute">
+    <Position X="3" Y="1.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAgQAAAAI=</HashCode>
+      <FileName>InterceptContextAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AOPFramework.InterceptProperty" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAQAAAAI=</HashCode>
+      <FileName>InterceptProperty.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.21" />
+  </Class>
+  <Class Name="AOPFramework.InterceptSink" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAQAAIAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>InterceptSink.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.325" />
+  </Class>
+  <Class Name="System.Runtime.Remoting.Contexts.ContextAttribute" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.ContextBoundObject" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="AOPFramework.IProcessor">
+    <Position X="8.25" Y="3.5" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>IProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
